@@ -24,11 +24,11 @@ header a {
   text-decoration: none;
 }
 
-/* Layout */
 .container {
-  display: flex;
-  align-items: flex-start;
-  padding: 15px;
+  display: block;
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
 }
 
 /* Sidebar */
